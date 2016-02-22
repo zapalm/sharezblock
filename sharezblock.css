@@ -1,0 +1,22 @@
+div.sharez-block {
+	background:#F1F2F4;
+	border:1px solid #D0D3D8;
+	color:#374853;
+	font-size:1.1em;
+	padding:0.7em;
+}
+span.sharez-header {
+	color: #DA0F00;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+p.sharez-present {
+	font-weight:bold;
+}
+p.sharez-end {
+	font-weight:bold;
+}
+p.sharez-days {
+	font-size:larger;
+	font-weight:bold
+}
